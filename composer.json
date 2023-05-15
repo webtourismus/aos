@@ -1,0 +1,7 @@
+{
+    "name": "webtourismus/aos",
+    "description": "Mirror of https://www.npmjs.com/package/aos as drupal-library",
+    "license": "MIT",
+    "type": "drupal-library",
+    "homepage": "http://michalsnik.github.io/aos/"
+}
